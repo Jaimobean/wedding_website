@@ -27,7 +27,7 @@ export default props => (
         <img alt="Wedding Rings" src={rings} />
         <h2>The Big Day</h2>
         <h4>Sunday October 23, 2022</h4>
-        <h4>5:30pm-10:30pm</h4>
+        <h4>4:30pm-10:30pm</h4>
         <h3>Fire House KC</h3>
         <h4>4518 Troost Ave, Kansas City, MO 64110</h4>
         <h5>Formal/Cocktail Attire</h5>
